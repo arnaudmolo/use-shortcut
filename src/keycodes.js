@@ -9,6 +9,7 @@ export default {
   20: 'capslock',
   27: 'escape',
   33: 'page-up',
+  32: 'space',
   34: 'page-down',
   35: 'end',
   36: 'home',
